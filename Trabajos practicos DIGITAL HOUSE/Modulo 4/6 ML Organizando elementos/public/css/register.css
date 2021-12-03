@@ -1,0 +1,43 @@
+@import url('header.css');
+@import url('general.css');
+@import url('variables.css');
+
+.main-register h4{
+    margin: 10px;
+    
+}
+.main-register .register-input input{
+    width: 90%;
+    padding-left: 5px;
+    margin: 10px 5%;
+}
+
+
+.main-register .register-boxes{
+    margin: 15px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+
+.main-register .foto input {
+    width: 90%;
+    padding-left: 5px;
+    margin: 10px 5%;
+}
+
+.main-register .buttons button{
+    background-color: var(--color-celeste);
+    color: var(--color-grisClaro);
+    width: 50%;
+    margin: 10px;
+    padding: 7px;
+    font-size: 15px;
+}
+.main-register .buttons {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+}

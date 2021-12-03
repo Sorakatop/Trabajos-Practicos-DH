@@ -1,0 +1,51 @@
+body {
+    background-color:  white;
+    font-family: "Roboto", "Raleway", "sans-serif";
+  
+  }
+
+  h3{
+    color: #822659;
+    letter-spacing: 1px;
+  
+  }
+
+  h5{
+    color: #b34180;
+    letter-spacing: 1px;
+  
+  }
+
+  h6{
+    color: #822659;
+    letter-spacing: 1px;
+  
+  }
+
+  a:link {
+    color:#e36bae;
+  }
+  a:hover {
+    color:rgb(209, 12, 235);
+    text-decoration:none;
+  }
+  a:visited {
+    color:purple;
+  }
+  a:active {
+    color: #f8a1d1;
+  }
+ 
+
+  img {
+    width: 200px;
+  }
+
+  p{ 
+    color:#e36bae;
+    font-size: 10px;
+  }
+
+  li{
+    font-size: 10px;
+  }
